@@ -1,4 +1,4 @@
-package org.example;
+package Basics;
 
 public class countingoccurance {
     public static void main(String[] args) {

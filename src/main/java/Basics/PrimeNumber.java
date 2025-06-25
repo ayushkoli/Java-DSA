@@ -1,4 +1,4 @@
-package org.example;
+package Basics;
 
 public class PrimeNumber {
     public static void main(String[] args) {

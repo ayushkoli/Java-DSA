@@ -1,4 +1,4 @@
-package org.example;
+package Basics;
 
 public class method_overloading {
     public static void main(String[] args) {
