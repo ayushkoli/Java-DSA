@@ -1,4 +1,4 @@
 package DataStructures;
 
-public class array {
+public class arrays {
 }
