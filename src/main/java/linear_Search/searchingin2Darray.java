@@ -1,4 +1,4 @@
-package Algorithm;
+package linear_Search;
 
 import java.util.Arrays;
 

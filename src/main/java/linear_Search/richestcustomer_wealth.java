@@ -1,4 +1,4 @@
-package Algorithm;
+package linear_Search;
 
 public class richestcustomer_wealth {
     public static void main(String[] args) {
