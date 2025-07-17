@@ -7,7 +7,7 @@ public class arraylist {
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);
        ArrayList<Integer> list=new ArrayList<>(10);
-//       list.add(22);
+//       list.add(22)
 //       list.add(12);
 //       list.add(222);
 //       list.add(232);
