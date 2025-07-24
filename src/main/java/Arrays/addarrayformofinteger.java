@@ -6,7 +6,7 @@ import java.util.Collections;
 
 public class addarrayformofinteger {
     public static void main(String[] args) {
-        int[] a={1,2,0,0};
+        int[] a={1,2,0};
         System.out.println(addToArrayForm(a,34));
 
     }
